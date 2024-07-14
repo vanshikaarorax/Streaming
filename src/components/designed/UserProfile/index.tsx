@@ -10,7 +10,7 @@ return(
                      Sign in
                     </button>
                     <button className="list-item" onClick={() => console.log('Option 2 clicked')}>
-                     Help
+                     Helping
                     </button>
                     <button className="list-item" onClick={() => console.log('Option 1 clicked')}>
                      Watch Anywhere
